@@ -5,7 +5,7 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 
 /**
- * 方法用途：
+ * 方法用途：如果clone的子对象可变，则必须实现深拷贝，重新定义clone方法。反之则使用浅拷贝
  * Created by Tuyu on 2016/7/11 18:20 .
  */
 public class cloneEmployee implements Cloneable {
@@ -19,6 +19,11 @@ public class cloneEmployee implements Cloneable {
         hireDay = new Date();
     }
 
+    /**
+     * @方法描述 为了实现深拷贝，必须clone所有可变的实例域。
+     * @return clone的对象
+     * @throws CloneNotSupportedException
+     */
     @Override
     public Object clone() throws CloneNotSupportedException {
         //call Object.clone()
