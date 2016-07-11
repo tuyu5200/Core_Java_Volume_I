@@ -1,4 +1,4 @@
-package MyInterfaceTest;
+package MyTestOfInterface;
 
 /**
  * 方法用途：
@@ -8,9 +8,9 @@ public class testMain extends setNameAndSchoolImpl {
 
     public static void main(String[] args) {
         testMain test=new testMain();
-        String name = test.setName("涂宇");
+        test.setName("涂宇");
         String school = test.setSchool("CDUT");
-        System.out.println("name: " + name + " school: " + school);
+        System.out.println("name: " + test.getUname() + " school: " + school);
         System.out.println(schoolName);//输出接口中的常量
 
     }

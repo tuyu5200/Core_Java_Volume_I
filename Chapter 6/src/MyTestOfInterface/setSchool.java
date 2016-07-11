@@ -1,4 +1,4 @@
-package MyInterfaceTest;
+package MyTestOfInterface;
 
 /**
  * 方法用途：扩展接口
