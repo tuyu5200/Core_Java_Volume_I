@@ -27,4 +27,5 @@ public class Student extends Person {
         String description="This is a student at "+school+" in "+major;
         return description;
     }
+
 }
