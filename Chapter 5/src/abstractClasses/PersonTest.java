@@ -9,9 +9,8 @@ public class PersonTest {
         Person[] persons = new Person[2];
         persons[0] = new Student("tuyu", "大二", "成都理工大学");
         persons[1] = new Employee("zhangsan", 3000, 2016, 6, 12);
-        System.out.println("person[0]= "+persons[0].getName());
         for (Person p:persons){
-            System.out.println(p.getClass().getName() + ":  " + p.getName() + "," + p.Description());
+            System.out.println(p.getName()+","+p.Description());
         }
     }
 }

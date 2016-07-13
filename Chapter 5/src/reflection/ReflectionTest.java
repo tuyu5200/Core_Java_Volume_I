@@ -48,7 +48,7 @@ public class ReflectionTest {
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
-        //System.exit(0);
+        System.exit(0);
 
     }
 
