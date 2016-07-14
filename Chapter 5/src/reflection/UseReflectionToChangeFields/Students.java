@@ -1,4 +1,4 @@
-package testDemo.UseReflectionToChangeFields;
+package reflection.UseReflectionToChangeFields;
 
 import java.lang.reflect.Field;
 
