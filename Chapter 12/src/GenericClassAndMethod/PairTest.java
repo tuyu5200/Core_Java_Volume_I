@@ -1,6 +1,6 @@
-package Generic;
+package GenericClassAndMethod;
 
-import static Generic.MinAndMaxOfArrays.maxAndMin;
+import static GenericClassAndMethod.MinAndMaxOfArrays.maxAndMin;
 
 /**
  * Program is use 简单泛型类+泛型方法+静态内部类

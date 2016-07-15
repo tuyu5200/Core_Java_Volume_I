@@ -1,4 +1,4 @@
-package Generic;
+package GenericClassAndMethod;
 
 /**
  * Program is use
