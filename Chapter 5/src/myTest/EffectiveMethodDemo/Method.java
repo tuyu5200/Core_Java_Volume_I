@@ -1,4 +1,4 @@
-package EffectiveMethodDemo;
+package myTest.EffectiveMethodDemo;
 
 /**
  * 方法用途：
