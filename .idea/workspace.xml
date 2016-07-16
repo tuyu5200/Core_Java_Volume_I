@@ -2,14 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ce2cc5f-df8a-4e0c-abcb-0dd3bbbe5060" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 12/src/Generic/MinAndMaxOfArrays.java" afterPath="$PROJECT_DIR$/Chapter 12/src/GenericClassAndMethod/MinAndMaxOfArrays.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter 12/src/Generic/PairTest.java" afterPath="$PROJECT_DIR$/Chapter 12/src/GenericClassAndMethod/PairTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 12/src/commonSign/pair3/PairTest3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/Manager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/Pair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/testMain.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chapter 12/Generic/MinAndMaxOfArrays$Pair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chapter 12/Generic/MinAndMaxOfArrays.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chapter 12/Generic/PairTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chapter 5/EffectiveMethodDemo/Method.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chapter 5/testDemo/UseReflectionToChangeFields/Students.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chapter 5/testDemo/UseReflectionToChangeFields/testReflection.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 5/abstractClasses/Employee.class" afterPath="$PROJECT_DIR$/out/production/Chapter 5/abstractClasses/Employee.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 5/abstractClasses/Person.class" afterPath="$PROJECT_DIR$/out/production/Chapter 5/abstractClasses/Person.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 5/abstractClasses/PersonTest.class" afterPath="$PROJECT_DIR$/out/production/Chapter 5/abstractClasses/PersonTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 5/abstractClasses/Student.class" afterPath="$PROJECT_DIR$/out/production/Chapter 5/abstractClasses/Student.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 5/enums/EnumTest.class" afterPath="$PROJECT_DIR$/out/production/Chapter 5/enums/EnumTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 5/enums/Size.class" afterPath="$PROJECT_DIR$/out/production/Chapter 5/enums/Size.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 5/reflection/ReflectionTest.class" afterPath="$PROJECT_DIR$/out/production/Chapter 5/reflection/ReflectionTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 5/reflection/arrays/CopyOfArrayTest.class" afterPath="$PROJECT_DIR$/out/production/Chapter 5/reflection/arrays/CopyOfArrayTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 5/reflection/methods/MethodTableTest.class" afterPath="$PROJECT_DIR$/out/production/Chapter 5/reflection/methods/MethodTableTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/MyTestOfInterface/setName.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/MyTestOfInterface/setName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/MyTestOfInterface/setNameAndSchoolImpl.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/MyTestOfInterface/setNameAndSchoolImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/MyTestOfInterface/setSchool.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/MyTestOfInterface/setSchool.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/MyTestOfInterface/testMain.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/MyTestOfInterface/testMain.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/clone/cloneEmployee.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/clone/cloneEmployee.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/clone/cloneTest.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/clone/cloneTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/anonymousInnerClass/AnonymousInnerClassTest.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/anonymousInnerClass/AnonymousInnerClassTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/anonymousInnerClass/TalkingClock$1.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/anonymousInnerClass/TalkingClock$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/anonymousInnerClass/TalkingClock.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/anonymousInnerClass/TalkingClock.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/simpleAndPartInnerClass/InnerClassTest.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/simpleAndPartInnerClass/InnerClassTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/simpleAndPartInnerClass/TalkingClock$1TimePrinter.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/simpleAndPartInnerClass/TalkingClock$1TimePrinter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/simpleAndPartInnerClass/TalkingClock$TimePrinter.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/simpleAndPartInnerClass/TalkingClock$TimePrinter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/simpleAndPartInnerClass/TalkingClock.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/simpleAndPartInnerClass/TalkingClock.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/staticInnerClass/MaxAndMinOfArray$Pair.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/staticInnerClass/MaxAndMinOfArray$Pair.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/staticInnerClass/MaxAndMinOfArray.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/staticInnerClass/MaxAndMinOfArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/staticInnerClass/StaticInnerClassTest.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/innerClass/staticInnerClass/StaticInnerClassTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/interfaces/Employee.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/interfaces/Employee.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Chapter 6/interfaces/EmployeeSortTest.class" afterPath="$PROJECT_DIR$/out/production/Chapter 6/interfaces/EmployeeSortTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter 12/Chapter 12.iml" afterPath="$PROJECT_DIR$/Chapter 12/Chapter 12.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter 12/src/GenericClassAndMethod/PairTest.java" afterPath="$PROJECT_DIR$/Chapter 12/src/GenericClassAndMethod/PairTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core Java Volume I.iml" afterPath="$PROJECT_DIR$/Core Java Volume I.iml" />
     </list>
     <ignored path="Core_Java_Volume_I.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,121 +67,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="InnerClassTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 6/src/innerClass/simpleAndPartInnerClass/InnerClassTest.java">
+      <file leaf-file-name="Manager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
-                <element signature="method#main#0;class#InnerClassTest#0" expanded="false" />
-                <element signature="method#TalkingClock#0;class#TalkingClock#0" expanded="false" />
-                <element signature="method#TalkingClock#1;class#TalkingClock#0" expanded="false" />
-                <element signature="method#start#0;class#TalkingClock#0" expanded="false" />
-                <element signature="class#TimePrinter#0;class#TalkingClock#0" expanded="false" />
-                <element signature="method#actionPerformed#0;class#TimePrinter#0;class#TalkingClock#0" expanded="false" />
-                <element signature="method#start#1;class#TalkingClock#0" expanded="false" />
-                <element signature="class#2021:2424" expanded="false" />
-                <element signature="method#actionPerformed#0;class#2021:2424" expanded="false" />
+                <element signature="method#Manager#0;class#Manager#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StaticInnerClassTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 6/src/innerClass/staticInnerClass/StaticInnerClassTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-              <folding>
-                <element signature="method#main#0;class#StaticInnerClassTest#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxAndMinOfArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 6/src/innerClass/staticInnerClass/MaxAndMinOfArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Students.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 5/src/reflection/UseReflectionToChangeFields/Students.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CopyOfArrayTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 5/src/reflection/arrays/CopyOfArrayTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Method.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 5/src/myTest/EffectiveMethodDemo/Method.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PairTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter 12/src/GenericClassAndMethod/PairTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
-              <folding>
-                <element signature="e#878#893#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinAndMaxOfArrays.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 12/src/GenericClassAndMethod/MinAndMaxOfArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="45" column="46" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
-              <folding>
-                <element signature="class#Pair#0;class#MinAndMaxOfArrays#0" expanded="true" />
-                <element signature="method#Pair#0;class#Pair#0;class#MinAndMaxOfArrays#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="method#maxminOfString#0;class#MinAndMaxOfArrays#0" expanded="true" />
-                <element signature="method#maxminOfNumber#0;class#MinAndMaxOfArrays#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmployeeSortTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 6/src/interfaces/EmployeeSortTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 6/src/interfaces/Employee.java">
+        <entry file="file://$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="method#Employee#0;class#Employee#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pair.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/Pair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding>
+                <element signature="method#Pair#0;class#Pair#0" expanded="true" />
+                <element signature="method#Pair#1;class#Pair#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="method#minAndMaxBouns#0;class#Pair#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/testMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PairTest3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 12/src/commonSign/pair3/PairTest3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#printBuddies#0;class#PairTest3#0" expanded="true" />
+                <element signature="method#minmaxBouns#0;class#PairTest3#0" expanded="true" />
+                <element signature="method#minmaxBouns#1;class#PairTest3#0" expanded="true" />
+                <element signature="method#maxminBouns#0;class#PairTest3#0" expanded="true" />
+                <element signature="class#PairAlg#0;class#PairTest3#0" expanded="true" />
+                <element signature="e#3810#3811#0" expanded="true" />
+                <element signature="e#3881#3882#0" expanded="true" />
+                <element signature="e#4032#4033#0" expanded="true" />
+                <element signature="e#4072#4073#0" expanded="true" />
+                <element signature="method#swapHelper#0;class#PairAlg#0;class#PairTest3#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 5/src/abstractClasses/PersonTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -188,6 +200,11 @@
         <option value="$PROJECT_DIR$/Chapter 12/src/Generic/MinAndMaxOfArrays.java" />
         <option value="$PROJECT_DIR$/Chapter 12/src/Generic/PairTest.java" />
         <option value="$PROJECT_DIR$/Chapter 12/src/GenericClassAndMethod/PairTest.java" />
+        <option value="$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/Employee.java" />
+        <option value="$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/testMain.java" />
+        <option value="$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/Manager.java" />
+        <option value="$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/Pair.java" />
+        <option value="$PROJECT_DIR$/Chapter 12/src/commonSign/pair3/PairTest3.java" />
       </list>
     </option>
   </component>
@@ -221,7 +238,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -239,65 +256,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core_Java_Volume_I" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core_Java_Volume_I" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core_Java_Volume_I" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core_Java_Volume_I" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core_Java_Volume_I" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core_Java_Volume_I" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core_Java_Volume_I" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GenericClassAndMethod" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,68 +271,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
   </component>
-  <component name="RunManager" selected="Application.PairTest">
-    <configuration default="false" name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="enums.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="enums.EnumTest" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter 5" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="InnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="innerClass.simpleAndPartInnerClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="innerClass.simpleAndPartInnerClass.InnerClassTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter 6" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="StaticInnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="innerClass.staticInnerClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="innerClass.staticInnerClass.StaticInnerClassTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter 6" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.PairTest3">
     <configuration default="false" name="PairTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -377,6 +285,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="GenericClassAndMethod.PairTest" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter 12" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="testMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="commonSign.superTypeBound.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="commonSign.superTypeBound.testMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter 12" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PairTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="commonSign.pair3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="commonSign.pair3.PairTest3" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -800,18 +748,16 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Application.EnumTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.InnerClassTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StaticInnerClassTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PairTest" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.PairTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.testMain" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PairTest3" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.PairTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.StaticInnerClassTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.InnerClassTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.EnumTest" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.PairTest3" />
+        <item index="1" class="java.lang.String" itemvalue="Application.testMain" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PairTest" />
       </list>
     </recent_temporary>
   </component>
@@ -848,7 +794,10 @@
       <workItem from="1468459788981" duration="8386000" />
       <workItem from="1468472536215" duration="9449000" />
       <workItem from="1468494624863" duration="175000" />
-      <workItem from="1468550621655" duration="10116000" />
+      <workItem from="1468550621655" duration="10715000" />
+      <workItem from="1468630283088" duration="1300000" />
+      <workItem from="1468632459932" duration="6699000" />
+      <workItem from="1468659478419" duration="6010000" />
     </task>
     <task id="LOCAL-00001" summary="内部类和局部内部类">
       <created>1468468913643</created>
@@ -875,7 +824,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28910000" />
+    <option name="totallyTimeSpent" value="43518000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -892,31 +841,31 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5030257" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5030257" order="15" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924694" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924694" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47892073" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32874355" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.49122807" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.50877196" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32715008" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32874355" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.49122807" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.50877196" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -963,7 +912,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -976,13 +925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#main#0;class#MethodTableTest#0" expanded="false" />
-            <element signature="e#699#700#0" expanded="false" />
-            <element signature="e#727#728#0" expanded="false" />
-            <element signature="method#printTable#0;class#MethodTableTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -990,13 +932,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="method#main#0;class#EnumTest#0" expanded="false" />
-            <element signature="e#568#569#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#690#691#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1004,17 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding>
-            <element signature="method#main#0;class#InnerClassTest#0" expanded="false" />
-            <element signature="method#TalkingClock#0;class#TalkingClock#0" expanded="false" />
-            <element signature="method#TalkingClock#1;class#TalkingClock#0" expanded="false" />
-            <element signature="method#start#0;class#TalkingClock#0" expanded="false" />
-            <element signature="class#TimePrinter#0;class#TalkingClock#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#TimePrinter#0;class#TalkingClock#0" expanded="false" />
-            <element signature="method#start#1;class#TalkingClock#0" expanded="false" />
-            <element signature="class#2021:2424" expanded="false" />
-            <element signature="method#actionPerformed#0;class#2021:2424" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1022,9 +946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <element signature="method#main#0;class#StaticInnerClassTest#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1032,9 +953,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <element signature="method#main#0;class#AnonymousInnerClassTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1042,9 +960,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding>
-            <element signature="method#actionPerformed#0;class#476:896" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1052,7 +967,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1060,7 +974,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1068,13 +981,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#main#0;class#MethodTableTest#0" expanded="false" />
-            <element signature="e#699#700#0" expanded="false" />
-            <element signature="e#727#728#0" expanded="false" />
-            <element signature="method#printTable#0;class#MethodTableTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1082,13 +988,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="method#main#0;class#EnumTest#0" expanded="false" />
-            <element signature="e#568#569#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#690#691#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1096,17 +995,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding>
-            <element signature="method#main#0;class#InnerClassTest#0" expanded="false" />
-            <element signature="method#TalkingClock#0;class#TalkingClock#0" expanded="false" />
-            <element signature="method#TalkingClock#1;class#TalkingClock#0" expanded="false" />
-            <element signature="method#start#0;class#TalkingClock#0" expanded="false" />
-            <element signature="class#TimePrinter#0;class#TalkingClock#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#TimePrinter#0;class#TalkingClock#0" expanded="false" />
-            <element signature="method#start#1;class#TalkingClock#0" expanded="false" />
-            <element signature="class#2021:2424" expanded="false" />
-            <element signature="method#actionPerformed#0;class#2021:2424" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1114,9 +1002,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <element signature="method#main#0;class#StaticInnerClassTest#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1124,9 +1009,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <element signature="method#main#0;class#AnonymousInnerClassTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1134,9 +1016,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding>
-            <element signature="method#actionPerformed#0;class#476:896" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1144,7 +1023,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1152,7 +1030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1160,13 +1037,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#main#0;class#MethodTableTest#0" expanded="false" />
-            <element signature="e#699#700#0" expanded="false" />
-            <element signature="e#727#728#0" expanded="false" />
-            <element signature="method#printTable#0;class#MethodTableTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1174,13 +1044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="method#main#0;class#EnumTest#0" expanded="false" />
-            <element signature="e#568#569#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#690#691#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1188,17 +1051,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#main#0;class#InnerClassTest#0" expanded="false" />
-            <element signature="method#TalkingClock#0;class#TalkingClock#0" expanded="false" />
-            <element signature="method#TalkingClock#1;class#TalkingClock#0" expanded="false" />
-            <element signature="method#start#0;class#TalkingClock#0" expanded="false" />
-            <element signature="class#TimePrinter#0;class#TalkingClock#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#TimePrinter#0;class#TalkingClock#0" expanded="false" />
-            <element signature="method#start#1;class#TalkingClock#0" expanded="false" />
-            <element signature="class#2021:2424" expanded="false" />
-            <element signature="method#actionPerformed#0;class#2021:2424" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1206,13 +1058,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#main#0;class#MethodTableTest#0" expanded="false" />
-            <element signature="e#699#700#0" expanded="false" />
-            <element signature="e#727#728#0" expanded="false" />
-            <element signature="method#printTable#0;class#MethodTableTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1220,13 +1065,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#main#0;class#MethodTableTest#0" expanded="false" />
-            <element signature="e#699#700#0" expanded="false" />
-            <element signature="e#727#728#0" expanded="false" />
-            <element signature="method#printTable#0;class#MethodTableTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1234,13 +1072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#main#0;class#MethodTableTest#0" expanded="false" />
-            <element signature="e#699#700#0" expanded="false" />
-            <element signature="e#727#728#0" expanded="false" />
-            <element signature="method#printTable#0;class#MethodTableTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1249,13 +1080,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="method#main#0;class#EnumTest#0" expanded="false" />
-            <element signature="e#568#569#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#655#656#0" expanded="false" />
-            <element signature="e#690#691#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1286,9 +1110,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <element signature="method#main#0;class#AnonymousInnerClassTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1296,9 +1117,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding>
-            <element signature="method#actionPerformed#0;class#476:896" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1306,33 +1124,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding>
-            <element signature="method#main#0;class#InnerClassTest#0" expanded="false" />
-            <element signature="method#TalkingClock#0;class#TalkingClock#0" expanded="false" />
-            <element signature="method#TalkingClock#1;class#TalkingClock#0" expanded="false" />
-            <element signature="method#start#0;class#TalkingClock#0" expanded="false" />
-            <element signature="class#TimePrinter#0;class#TalkingClock#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#TimePrinter#0;class#TalkingClock#0" expanded="false" />
-            <element signature="method#start#1;class#TalkingClock#0" expanded="false" />
-            <element signature="class#2021:2424" expanded="false" />
-            <element signature="method#actionPerformed#0;class#2021:2424" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 5/src/reflection/UseReflectionToChangeFields/Students.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="133">
           <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 5/src/reflection/arrays/CopyOfArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1340,7 +1138,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1348,7 +1145,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1356,59 +1152,160 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 6/src/innerClass/staticInnerClass/StaticInnerClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="152">
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="method#main#0;class#StaticInnerClassTest#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 12/src/genericClass/Pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 12/src/genericClass/Pair.java" />
     <entry file="file://$PROJECT_DIR$/Chapter 6/src/innerClass/staticInnerClass/MaxAndMinOfArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="228">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 12/src/GenericClassAndMethod/MinAndMaxOfArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="551">
           <caret line="45" column="46" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
           <folding>
-            <element signature="class#Pair#0;class#MinAndMaxOfArrays#0" expanded="true" />
-            <element signature="method#Pair#0;class#Pair#0;class#MinAndMaxOfArrays#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="method#maxminOfString#0;class#MinAndMaxOfArrays#0" expanded="true" />
-            <element signature="method#maxminOfNumber#0;class#MinAndMaxOfArrays#0" expanded="true" />
+            <element signature="class#Pair#0;class#MinAndMaxOfArrays#0" expanded="false" />
+            <element signature="method#Pair#0;class#Pair#0;class#MinAndMaxOfArrays#0" expanded="false" />
+            <element signature="e#386#387#0" expanded="false" />
+            <element signature="e#422#423#0" expanded="false" />
+            <element signature="e#454#455#0" expanded="false" />
+            <element signature="e#491#492#0" expanded="false" />
+            <element signature="method#maxminOfString#0;class#MinAndMaxOfArrays#0" expanded="false" />
+            <element signature="method#maxminOfNumber#0;class#MinAndMaxOfArrays#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 5/src/reflection/arrays/CopyOfArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 12/src/GenericClassAndMethod/PairTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
+        <state relative-caret-position="152">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding>
-            <element signature="e#878#893#0" expanded="true" />
+            <element signature="method#main#0;class#PairTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 5/src/abstractClasses/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 5/src/abstractClasses/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 5/src/abstractClasses/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="28" column="0" selection-start-line="10" selection-start-column="4" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 5/src/abstractClasses/PersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/testMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="method#Pair#0;class#Pair#0" expanded="true" />
+            <element signature="method#Pair#1;class#Pair#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="method#minAndMaxBouns#0;class#Pair#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="method#Employee#0;class#Employee#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 12/src/commonSign/superTypeBound/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="method#Manager#0;class#Manager#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 12/src/commonSign/pair3/PairTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#printBuddies#0;class#PairTest3#0" expanded="true" />
+            <element signature="method#minmaxBouns#0;class#PairTest3#0" expanded="true" />
+            <element signature="method#minmaxBouns#1;class#PairTest3#0" expanded="true" />
+            <element signature="method#maxminBouns#0;class#PairTest3#0" expanded="true" />
+            <element signature="class#PairAlg#0;class#PairTest3#0" expanded="true" />
+            <element signature="e#3810#3811#0" expanded="true" />
+            <element signature="e#3881#3882#0" expanded="true" />
+            <element signature="e#4032#4033#0" expanded="true" />
+            <element signature="e#4072#4073#0" expanded="true" />
+            <element signature="method#swapHelper#0;class#PairAlg#0;class#PairTest3#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1456,5 +1353,80 @@
     <property name="spaceAfterKeyword" value="false" />
     <property name="splitStringsAtNewline" value="false" />
     <property name="useTabs" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1.26-bin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Chapter 12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

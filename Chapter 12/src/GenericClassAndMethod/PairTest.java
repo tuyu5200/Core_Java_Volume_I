@@ -20,7 +20,7 @@ public class PairTest {
         //MinAndMaxOfArray.Pair<Integer> integerPair = maxminOfNumber(number);
         //MinAndMaxOfArrays.Pair<String> stringPair = maxminOfString(words);
 
-        //调用静态内部类Pair的泛型方法计算最大值和最小值
+        //调用静态内部泛型类Pair的泛型方法计算最大值和最小值
         //调用泛型方法时，在方法名前的尖括号放入具体类型，但实际可以省略<String>
         MinAndMaxOfArrays.Pair<String> stringPair = MinAndMaxOfArrays.<String,String>maxAndMin(words);
         MinAndMaxOfArrays.Pair<Integer> integerPair = maxAndMin(ints);
