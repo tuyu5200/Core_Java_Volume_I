@@ -49,6 +49,18 @@ public class PairTest3 {
     }
 
     /**
+     * 使用Class<T> 参数进行类型匹配
+     * @param c
+     * @param <T>
+     * @return
+     * @throws IllegalAccessException
+     * @throws InstantiationException
+     */
+    public static <T> Pair<T> makePair(Class<T> c) throws IllegalAccessException, InstantiationException {
+        return new Pair<>(c.newInstance(), c.newInstance());
+    }
+
+    /**
      *得到经理数组里工资最高者和最低者
      * @param managers 数组
      * @return a pair of manager
