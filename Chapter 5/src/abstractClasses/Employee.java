@@ -32,4 +32,9 @@ public class Employee extends Person {
         String description="This is a employee salary is " + salary + " and the hireday is " + hireDay;
         return description;
     }
+
+    @Override
+    public String toString() {
+        return "[ name="+super.getName()+" salary="+salary+" hireDay= "+hireDay+" ]";
+    }
 }
